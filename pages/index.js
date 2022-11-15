@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>Create Next App</title>
       </Head>
-      <button className="btn">Hello word d</button>
+      <button className="btn">Hello word deneme</button>
     </div>
   );
 }
